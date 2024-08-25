@@ -60,9 +60,6 @@ The script generates a single text file containing the extracted text from all p
 - Check the console output for any error messages during processing.
 - Verify that your images are in a supported format and are readable.
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome. Feel free to check [issues page](link-to-your-issues-page) if you want to contribute.
 
 ## License
 
