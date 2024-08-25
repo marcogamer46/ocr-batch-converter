@@ -1,5 +1,3 @@
-Here's a README for GitHub explaining how to use this script and its function:
-
 ```markdown
 # Image to Text Converter
 
