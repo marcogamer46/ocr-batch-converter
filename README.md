@@ -66,4 +66,4 @@ The script generates a single text file containing the extracted text from all p
 [MIT](https://choosealicense.com/licenses/mit/)
 ```
 
-This README provides a comprehensive guide on how to set up and use the image-to-text conversion script. It includes information on installation, usage, requirements, and troubleshooting. You may want to customize the "Contributing" and "License" sections according to your preferences and the actual license you choose for your project.
+This README provides a comprehensive guide on how to set up and use the image-to-text conversion script. It includes information on installation, usage, requirements, and troubleshooting. 
